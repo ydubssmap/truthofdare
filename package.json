@@ -1,0 +1,14 @@
+{
+  "name": "truth-or-dare-bot",
+  "version": "1.0.0",
+  "description": "Christian-friendly truth or dare bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
